@@ -713,4 +713,4 @@ heatmap.2(prediction.matrix,  margins=c(13, 13),
           trace="none", density.info="none")
 ```
 
-![](https://github.com/wwruck/scBulk/edit/main/deconv_for_md_files/figure-markdown_github/prediction_heatmap-1.png)
+![](deconv_for_md_files/figure-markdown_github/prediction_heatmap-1.png)
