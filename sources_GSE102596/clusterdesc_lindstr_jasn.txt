@@ -1,0 +1,13 @@
+cluster	desc
+1	immune_response
+2	interstitial_DCN
+3	developping_vasculature
+4	NPC
+5	diff_nephron_KRT18
+6	diff_nephron_CDH6
+7	cell_cycling_HIST1H1A
+8	cell_cycling_CENPF
+9	interstitial_REN
+10	interstitial_MEIS1
+11	interstitial_SULTEI1
+12	interstitial_VCAM1
